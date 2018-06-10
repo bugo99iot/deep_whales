@@ -1,0 +1,9 @@
+__pycache__/
+src/data/*
+!src/data/.gitkeep
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.h5
+*.png
+*jpg
+digits.ipynb
